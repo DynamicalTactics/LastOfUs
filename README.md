@@ -2,8 +2,6 @@ Last Of Us
 ========
 ##Clockwork: Last Of Us Roleplay##
 
-## Last of Us Roleplay ##
-
   Last of Us Roleplay is role-play based off the Last of Us game created by Naughty Dog. This schema is still in development.
   
  
