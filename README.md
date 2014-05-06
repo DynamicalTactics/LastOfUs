@@ -1,6 +1,6 @@
 LastOfUs
 ========
-mkdir ~/Clockwork-Last-Of-Us-Roleplay
+##Clockwork-Last-Of-Us-Roleplay
 
 ## Last of Us Roleplay ##
 
@@ -8,7 +8,7 @@ mkdir ~/Clockwork-Last-Of-Us-Roleplay
   
  
  
- ## Credits ##
+## Credits ##
  
  A Clockwork based Roleplaying Schema designed by: Cesar Carlos and The Hipster
 
