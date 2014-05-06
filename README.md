@@ -1,6 +1,6 @@
-LastOfUs
+Last Of Us
 ========
-##Clockwork-Last-Of-Us-Roleplay
+##Clockwork: Last Of Us Roleplay##
 
 ## Last of Us Roleplay ##
 
@@ -12,4 +12,5 @@ LastOfUs
  
  A Clockwork based Roleplaying Schema designed by: Cesar Carlos and The Hipster
 
-The Last of Us Project
+##Note##
+This project is still in development and is being updated frequently.
